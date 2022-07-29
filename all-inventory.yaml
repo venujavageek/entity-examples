@@ -5,8 +5,8 @@ metadata:
   description: A collection of all Backstage example entities, except users, groups, and templates
 spec:
   targets:
-    - ./counter-app/catalog-info.yaml
-    - ./counter-app/service/catalog-info.yaml
-    - ./counter-app/service/api/catalog-info.yaml
-    - ./counter-app/service/lib/catalog-info.yaml
-    - ./counter-app/service/db/catalog-info.yaml
+    - ./inventory-app/catalog-info.yaml
+    - ./inventory-app/service/catalog-info.yaml
+    - ./inventory-app/service/api/catalog-info.yaml
+    - ./inventory-app/service/lib/catalog-info.yaml
+    - ./inventory-app/service/db/catalog-info.yaml
